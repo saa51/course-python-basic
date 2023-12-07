@@ -5,6 +5,17 @@ Homework for Python (basic) in PHBS
 
 python=3.9.13
 
+### Homework 3
+
+#### The number of unique paths 
+
+Requirement: Arobot is located at the top-left corner of a m x n grid (marked 'Start' in the diagram below).The robot can only move ither down or right at any point in time. The robot is trying to reachthe bottom-right corner of the grid (marked Finish' in the diagram below).
+How many possible unique paths are there?
+
+Code: `./homework_3/unique_path.py`.
+
+![homework 3: unique paths](figures/homework_3_unique.png)
+
 ### Homework 2
 
 #### Anagram
