@@ -16,6 +16,14 @@ Code: `./homework_3/unique_path.py`.
 
 ![homework 3: unique paths](figures/homework_3_unique.png)
 
+#### Longest increasing sequence
+
+Requirement: Given an integer array nums, retum the length of the longest strictly increasing subsequence.
+
+Code: `./homework_3/longest_increasing_seq.py`.
+
+![homework 3: unique paths](figures/homework_3_longest.png)
+
 ### Homework 2
 
 #### Anagram
