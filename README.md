@@ -5,6 +5,38 @@ Homework for Python (basic) in PHBS
 
 python=3.9.13
 
+numpy=1.24.3
+
+xlrd=2.0.1
+
+xlwt=1.3.0
+
+### Homework 4
+
+Requirement: Given H1.xls, extract all the hyperlinks into one column in New_H1.xls.
+
+Code: `./Homework_4/extract_url.py`.
+
+Usage: 
+
+`--src`', path to source file, default './homework_4/H1.xls'.
+
+`--dest`, path to destination file, default './homework_4/New_H1.xls'.
+
+`--web`, whether open all links in the web browser.
+
+`--link_col`, the index of column containing the link, default is 2.
+
+Example: `./Homework_4/extract_url.py --src ./homework_4/H1.xls --dest ./homework_4/New_H1.xls --web`.
+
+Code:
+![homework 4: code](figures/homework_4_code.png)
+
+Results in `New_h1.xls`:
+![homework 3: unique paths](figures/homework_4_newh1.png)
+
+The New_h1.xls is not uploaded due to privacy.
+
 ### Homework 3
 
 #### The number of unique paths 
